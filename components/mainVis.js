@@ -387,7 +387,7 @@ $(document).ready(function () {
                 .attr('text-anchor', 'middle')
                 .attr('x', 95)
                 .attr('y', 125)
-                .attr('font-size', '20px')
+                .attr('font-size', '14px')
                 .attr('transform', `rotate(-45 95,125)`)
                 .text(d=>d)
 

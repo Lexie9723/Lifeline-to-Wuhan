@@ -203,11 +203,11 @@ $(document).ready(function () {
                 tmp.append('stop')
                     .attr('offset', '0')
                     .attr('stop-color', opt_fire.linesColor[0])
-                    .attr('stop-opacity', `${1 - j / 8}`)
+                    .attr('stop-opacity', `${j / 8}`)
                 tmp.append('stop')
                     .attr('offset', '1')
                     .attr('stop-color', opt_fire.linesColor[0])
-                    .attr('stop-opacity', `${1 - (j + 1) / 8}`)
+                    .attr('stop-opacity', `${ (j + 1) / 8}`)
 
                 lines.push({
                     pos: [pos, pos2],

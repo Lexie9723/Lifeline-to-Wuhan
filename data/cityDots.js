@@ -20,7 +20,7 @@ data_city_dots=[
         cy: 772
     },
     {
-        name: 'Xining',
+        name: 'Ningxia',
         cx: 815,
         cy: 205
     },
@@ -65,7 +65,7 @@ data_city_dots=[
         cy: 166
     },
     {
-        name: 'Shanxi',
+        name: 'Shaanxi',
         cx: 274,
         cy: 251
     },
@@ -145,7 +145,7 @@ data_city_dots=[
         cy: 11
     },
     {
-        name: 'Yunan',
+        name: 'Yunnan',
         cx: 207,
         cy: 658
     },
